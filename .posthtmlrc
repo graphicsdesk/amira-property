@@ -10,6 +10,10 @@
         "body": [
           {
             "type": "text",
+            "value": "<i>Updated: April 27, 2023 at 5:00 p.m.</i>"
+          },
+          {
+            "type": "text",
             "value": "“Oh, who owns New York?"
           },
           {
@@ -38,33 +42,31 @@
           },
           {
             "type": "text",
-            "value": "In the highest of published estimates, the RealDeal, a news outlet focused on commercial and residential real estate, <a href=\"https://therealdeal.com/new-york/2022/10/20/trd-pro-these-universities-have-the-largest-nyc-real-estate-footprints/\">reported</a> in 2022 that the University owned 216 buildings in New York City, totaling 13.9 million square feet in ownership. This estimate earns Columbia the title of the largest private landowner in New York City by number of addresses. Yet, it still grossly underestimates the true size of the University’s institutional real estate portfolio beyond holdings listed under “The Trustees of the University of Columbia.”"
+            "value": "In the highest of published estimates, the RealDeal, a news outlet focused on commercial and residential real estate, <a href=\"https://therealdeal.com/new-york/2022/10/20/trd-pro-these-universities-have-the-largest-nyc-real-estate-footprints/\">reported</a> in 2022 that the University owned 216 buildings in New York City, totaling 13.9 million square feet in ownership. This estimate earns Columbia the title of the largest private landowner in New York City by number of addresses. Yet, it still underestimates the true size of the University’s institutional real estate portfolio beyond holdings listed under “The Trustees of the University of Columbia.”"
           },
           {
             "type": "text",
-            "value": "A Spectator analysis of publicly available <a href=\"https://www.finance.columbia.edu/accounting-and-reporting-columbia-arc\">Accounting and Reporting at Columbia</a> documents found that under 184 pseudonyms, Columbia has property claims on at least 383 distinct addresses."
-          },
-          {
-            "type": "graphic",
-            "value": {
-              "asset": "property_forweb.html"
-            }
+            "value": "A Spectator analysis of a publicly available Accounting and Reporting at Columbia<a href=\"https://www.finance.columbia.edu/content/arc-site-pivot-tree\"> document</a>, listed as “ARC Site Pivot Tree” under “Forms & Documents,” and the city’s Primary Land Use Output has confirmed that Columbia owns at least 252 properties in New York City, exceeding previous estimates by nearly 40 properties."
           },
           {
             "type": "text",
-            "value": "While 263 of the ARC-identified buildings have permits under one of  33 variations of “The Trustees of the University of Columbia,” the University’s real estate claims also include properties registered with the city under 158 unrelated names, such as “The Morningside Heights Housing Corporation,” “265 River Owners Corp,” and “Hamilton Heights Cluster Associates L.P.”"
+            "value": "While confirmed properties have permits under one of at least 32 variations of “The Trustees of the University of Columbia,” or “Teachers College of Columbia University,” the ARC report, lists at least 383 distinct addresses in New York City as “institutional real estate,” “Baker Field,” “Faculty Practice,” “Morningside Heights,” and “Manhattenville [<i>sic</i>].”"
           },
           {
             "type": "text",
-            "value": "ARC, a resource planning system that “gives the University the ability to manage and track all of its diverse financial activities,” places Columbia more than 250 properties above peer institutions in New York City in terms of institutional real estate. New York University and Fordham University <a href=\"https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page\">trail behi</a><a href=\"https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page\">nd</a> with 119 and 25 properties respectively, according to the New York City Department of City Planning Primary Land Use Tax Lot Output."
+            "value": "“ARC Site Pivot Tree” included no complementary data dictionary, and no other document made publicly available under “Forms & Documents” by Columbia Finance defines the nature of the sites and addresses listed on “ARC Site Pivot Tree.”"
           },
           {
             "type": "text",
-            "value": "A University spokesperson did not comment at the time of publication."
+            "value": "The University’s “institutional real estate” under ARC also lists properties registered with the city under 150 unrelated names, such as “The Morningside Heights Housing Corporation,” “265 River Owners Corp,” and “Hamilton Heights Cluster Associates L.P.” The relationship between these listings and the University was not immediately clear."
           },
           {
             "type": "text",
-            "value": "The largest of the University’s recent acquisitions are related to the construction of the Manhattanville campus, a $6 billion development spanning from 125th Street to 134th Street. Fifteen years into construction, University President Lee Bollinger characterized the development as “not even a third” complete in a November interview with Spectator."
+            "value": "ARC, a resource planning system that “gives the University the ability to manage and track all of its diverse financial activities,” places Columbia more than 250 properties above peer institutions in New York City in terms of “institutional real estate.” New York University and Fordham University <a href=\"https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page\">trail behind</a> with 119 and 25 properties respectively, according to the New York City Department of City Planning Primary Land Use Tax Lot Output."
+          },
+          {
+            "type": "text",
+            "value": "The largest of the University’s acquisitions are related to the construction of the Manhattanville campus, a $6 billion development spanning from 125th Street to 134th Street. Fifteen years into construction, University President Lee Bollinger characterized the development as “not even a third” complete in a November interview with Spectator."
           },
           {
             "type": "text",
@@ -72,11 +74,11 @@
           },
           {
             "type": "text",
-            "value": "To balance the potential displacement imposed by Bollinger’s keystone campus expansion into Manhattanville, the University collaborated with West Harlem community leaders to create the Community Benefits Agreement, a 50-page document outlining the precise obligations Columbia holds to the neighboring community. These commitments—including $4 million in legal assistance, $20 million in affordable housing, and $76 million in other resources to be administered by the West Harlem Development Corporation—were based on the “Project Site Map” illustrating the physical boundaries of the lot necessary for the new campus. According to the CBA, the University intended on building “approximately 6.8 million square feet of space,” over the document's 25-year plan."
+            "value": "To balance the potential displacement imposed by Bollinger’s keystone campus expansion into Manhattanville, the University collaborated with West Harlem community leaders to create the Community Benefits Agreement, a 50-page document outlining the precise obligations Columbia holds to the neighboring community. These commitments—including $4 million in legal assistance, $20 million in affordable housing, and $76 million in other resources to be administered by the West Harlem Development Corporation—were based on the “Project Site Map” illustrating the physical boundaries of the lot necessary for the new campus. According to the CBA, the University intended on building “approximately 6.8 million square feet of space,” over the document’s 25-year plan."
           },
           {
             "type": "text",
-            "value": "But beyond the immediate bounds of the burgeoning Manhattanville campus, currently the site of the Columbia Business School and School of the Arts, Spectator found that the University claims  an additional 16 properties in the neighborhood—totaling 713,037 square feet beyond the outlined Project Site."
+            "value": "But beyond the immediate bounds of the burgeoning Manhattanville campus, currently the site of the Business School and School of the Arts, Spectator found that the University claims an additional 16 properties in the neighborhood as “institutional real estate.”."
           },
           {
             "type": "text",
@@ -84,11 +86,7 @@
           },
           {
             "type": "text",
-            "value": "According to the ARC reports, Columbia’s property claims, both residential and commercial, span far beyond the communities the University has entered a formal agreement with. Outside of the Manhattanville, Morningside Heights, and Medical School campuses, the University’s institutional real estate includes an additional 239 properties."
-          },
-          {
-            "type": "text",
-            "value": "Under “institutional real estate,” the ARC report identified a diverse array of properties, including 17 Smith Street, the site of The Brooklyn Tabernacle church, and 99 Fort Washington Avenue, a public housing development in Washington Heights."
+            "value": "According to the ARC reports, Columbia’s “institutional real estate,” spans far beyond the communities the University has entered a formal agreement with. Outside of the Manhattanville, Morningside Heights, and Medical School campuses, the University’s lists an additional 239 properties as “institutional real estate.”"
           },
           {
             "type": "text",
@@ -112,6 +110,10 @@
           },
           {
             "type": "text",
+            "value": "<i> Correction: This article has been updated to more accurately reflect the nature of the ARC data. The article’s headline, which previously stated Columbia holds real estate under 184 pseudonyms, has been updated to reflect the uncertainty of the relationship between the University and the names associated with addresses listed as “institutional real estate,” in addition to “Baker Field,” “Faculty Practice,” “Morningside Heights,” and “Manhattenville [sic],” as listed in the ARC report. Additionally, a previous version of this article incorrectly stated that PLUTO lists 263 properties under 33 variations of “Trustees of Columbia”. The article has been updated to say PLUTO lists 252 properties under 32 variations of “Trustees of Columbia.” The original number included a property under the name “Columbia Presbyterian.” This article initially included a property listed as 17 Smith Street as a listing of institutional real estate in New York City; the updated article removed 17 Smith Street after Spectator received information suggesting the address listed refers to a 17 Smith Street in Englewood, New Jersey. </i><i>A previous version of the article contained a graphic that worked under the premise that the sites listed in the ARC Site Pivot Tree were property holdings (including partial leases of buildings). Spectator removed this graphic. Spectator regrets this error.</i>"
+          },
+          {
+            "type": "text",
             "value": "<i>City News Editor Amira McKee can be contacted at </i><i>amira.mckee@columbiaspectator.com</i><i>.Follow her on Twitter </i><a href=\"https://twitter.com/_amiramckee\"><i>@_amiramckee</i></a><i>.</i>"
           },
           {
@@ -120,10 +122,10 @@
           },
           {
             "type": "text",
-            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><i>.</i>"
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
           }
         ],
-        "headline": "Under 184 pseudonyms, Columbia is the largest private landowner in New York City",
+        "headline": "Exceeding previous estimates, Columbia is the largest private landowner in New York City, city data reveals",
         "date": "April 20, 2023",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Amira-McKee/\">Amira McKee</a>. Data Analysis by <a href=\"https://www.columbiaspectator.com/contributors/Adina-Cazacu/\">Adina Cazacu-De Luca</a> and <a href=\"https://www.columbiaspectator.com/contributors/Paulette-Del-Valle/\">Paulette Del Valle</a>.",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/M5TLTJ37LNFVZCMARSAZR7OHOE.jpg",
